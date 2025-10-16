@@ -87,13 +87,13 @@ export const DATA = {
     },
   ],
    education: [
-  //   {
-  //     school: "Buildspace",
-  //     href: "https://buildspace.so",
-  //     degree: "s3, s4, sf1, s5",
-  //     logoUrl: "/buildspace.jpg",
-  //     start: "2023",
-  //     end: "2024",
+     {
+       school: "LNCT",
+       href: "",
+       degree: "B.Tech CSE",
+       logoUrl: "/LNCT-Logo.png",
+       start: "2024",
+       end: "2028",
      },
   //   {
   //     school: "University of Waterloo",
