@@ -86,7 +86,7 @@ export const DATA = {
         "Actively engaged in the data science community by participating in machine learning competitions, developing analytical notebooks, and contributing curated datasets. Gained hands-on experience in the end-to-end machine learning lifecycle, from data preprocessing and feature engineering to model training and performance evaluation on real-world data.",
     },
   ],
-  // education: [
+   education: [
   //   {
   //     school: "Buildspace",
   //     href: "https://buildspace.so",
@@ -94,7 +94,7 @@ export const DATA = {
   //     logoUrl: "/buildspace.jpg",
   //     start: "2023",
   //     end: "2024",
-  //   },
+     },
   //   {
   //     school: "University of Waterloo",
   //     href: "https://uwaterloo.ca",
@@ -119,7 +119,7 @@ export const DATA = {
   //     start: "2012",
   //     end: "2016",
   //   },
-  // ],
+   ],
   // projects: [
   //   {
   //     title: "Chat Collect",
