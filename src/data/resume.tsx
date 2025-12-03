@@ -14,7 +14,7 @@ export const DATA = {
   'Currently navigating the "first-year energy crisis"  powered by questionable hostel food and the sheer thrill of *almost* getting my code to compile on the first try. It’s a lot of "why isn\'t this working?" followed by "oh, it was a semicolon." Classic.\n\n' +
   "Mostly just trying to figure out if I'm building the next big thing or just breaking existing things in new and exciting ways. Obsessed with learning Python and trying to make sense of what an \"algorithm\" actually *does*. Pretty sure my brain cells are in a constant state of defragmentation.\n\n" +
   "Just here for the ride, the random tech deep-dives, and maybe, just maybe, building something that doesn't immediately crash. Hmu if you also spend too much time debugging print statements. It's a journey, not a sprint, and I'm definitely still in the tutorial level.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me (2).png",
   skills: [
     "MLOps",
     "Supervised Learning",
